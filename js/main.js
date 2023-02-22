@@ -12,5 +12,5 @@ function generateMenu() {
     const menuItem = menuItems[i];
     menuHtml += `<li><a href="${menuItem.url}">${menuItem.label}</a></li>`;
   }
-  document.getElementById('menu').innerHTML = menuHtml;
+  document.getElementById('sideMenu').innerHTML = menuHtml;
 }
