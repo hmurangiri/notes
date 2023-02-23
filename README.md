@@ -1,5 +1,5 @@
 # Notes
-##Advice1
+## 1. Advice 
 Let me explain my thought process on why I switched alcohol with energy drinks. I really enjoy hanging out kwa club, meeting friends, socializing and listening to music. There is immense entertainment and networking value in that environment. It clears my mind after a busy week and I couldn't stop doing something that makes me happy. I also realized that all disadvantages arise from alcohol consumption in clubs. The only way to get the benefits and avoid the drawbacks is continue clubbing but switch alcohol with something else. So nowadays, I still club, but take one or two monster drinks (max) na maji in between. Just like alcohol, huwezi kunywa energy drink kama juice. So:-
 - Zero hangovers
 - I'm extremely mobile because I don't care about alcoblow like drunk guys.
